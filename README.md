@@ -79,6 +79,3 @@ python main.py
 - Building an interactive game loop with user input handling
 - Handling edge cases like None input, duplicates, and case sensitivity
 
-##  License
-
-MIT License — feel free to use and modify.
